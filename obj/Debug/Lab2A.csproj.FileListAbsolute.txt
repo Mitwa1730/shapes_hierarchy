@@ -1,0 +1,7 @@
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\bin\Debug\Lab2A.exe.config
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\bin\Debug\Lab2A.exe
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\bin\Debug\Lab2A.pdb
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\obj\Debug\Lab2A.csproj.AssemblyReference.cache
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\obj\Debug\Lab2A.exe
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2A\obj\Debug\Lab2A.pdb
